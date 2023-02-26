@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T03:26:00 IST" name="All Test Suite" finished-at="2023-02-27T03:26:18 IST" duration-ms="18271">
+    <groups>
+    </groups>
+    <test started-at="2023-02-27T03:26:00 IST" name="C:/Ani/RobotClass/RobotClass" finished-at="2023-02-27T03:26:18 IST" duration-ms="18271">
+      <class name="org.Scopex.ScopexAssesment">
+        <test-method is-config="true" signature="init()[pri:0, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:00 IST" name="init" finished-at="2023-02-27T03:26:04 IST" duration-ms="4387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="loginTest()[pri:1, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:04 IST" name="loginTest" description="TC_001-Visit the web page URL specified as a parameter " finished-at="2023-02-27T03:26:09 IST" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="locateNavigationMenu()[pri:2, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:09 IST" name="locateNavigationMenu" description="TC_002-Locate the send money page " finished-at="2023-02-27T03:26:10 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateNavigationMenu -->
+        <test-method signature="faqs()[pri:3, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:10 IST" name="faqs" description="TC_003-Locate the FAQs on the  page " finished-at="2023-02-27T03:26:11 IST" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faqs -->
+        <test-method signature="Contactus()[pri:4, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:11 IST" name="Contactus" description="TC_004-Locate the Contactus on the  page " finished-at="2023-02-27T03:26:12 IST" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contactus -->
+        <test-method signature="Register()[pri:5, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:12 IST" name="Register" description="TC_005-Go to the Register Page " finished-at="2023-02-27T03:26:15 IST" duration-ms="3289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="LogInPage()[pri:6, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:15 IST" name="LogInPage" description="TC_006-Go to the LogIn Page " finished-at="2023-02-27T03:26:18 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInPage -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.Scopex.ScopexAssesment@5223e5ee]" started-at="2023-02-27T03:26:18 IST" name="end" finished-at="2023-02-27T03:26:18 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.Scopex.ScopexAssesment -->
+    </test> <!-- C:/Ani/RobotClass/RobotClass -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
